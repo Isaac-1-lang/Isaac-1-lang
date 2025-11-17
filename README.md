@@ -1,6 +1,6 @@
 # 👋 Hi, I'm NIYOBYOSE Isaac Precieux (aka Isaac)
 
-**Student at Rwanda Coding Academy | Full-Stack Developer | AI/ML Enthusiast | Open to Remote Opportunities**
+**Student at Rwanda Coding Academy | AI/ML Enthisiast | Full-Stack Developper | Cybersecurity Enthusiast | Open to Remote Opportunities**
 
 ---
 
