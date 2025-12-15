@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-- 📚 2+ years of hands-on experience in programming, AI, and blockchain
+- 📚 1+ years of hands-on experience in programming, AI, and blockchain
 - 🌍 Based in Kigali-Kimironko, Rwanda
 - 🏫 Rwanda Coding Academy
 - 💡 Innovative, problem-solver, and passionate about building impactful tech solutions
