@@ -30,20 +30,6 @@
 
 _I work across Python, JavaScript, React, C++, Node.js, Blockchain, AI/ML frameworks like YOLO, and full-stack tools like NestJS and Docker._  
 **Aliases:** Isaac-1 | Isaac Precieux | Isaac_250
-
----
-
-## 📌 Pinned Projects
-
-| Project | Description |
-| ------- | ----------- |
-| **Wastewise** | Smart waste management platform leveraging AI |
-| **Real Time Chatting** | Instant messaging system with live updates |
-| **Block_Chain_React** | Blockchain + React demo project |
-| **Waste_Classifier_Modal** | AI model for detecting and classifying waste |
-| **YOLOv8 Object Detection** | Detects objects in images and videos |
-| **Blockchain_Gaming** | Decentralized games platform |
-
 ---
 
 ## 🌐 Find Me Around the Web
