@@ -67,7 +67,7 @@ I'm a passionate software engineer with over a year of hands-on experience build
 
 ## 📬 Get In Touch
 
-**Email:** isaacniyo78@gmail.com  
+**Email:** isaprecieux112@gmail.com  
 **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/niyobyose-isaac-precieux-339369380)  
 **Location:** Kigali, Rwanda
 
@@ -79,6 +79,6 @@ I'm always open to discussing new projects, innovative ideas, or opportunities t
   
 *"Building tomorrow's solutions, one line of code at a time."*
 
-⭐️ From [Isaac-1](https://github.com/yourusername)
+⭐️ From [Isaac](https://github.com/Isaac-1-lang)
 
 </div>
