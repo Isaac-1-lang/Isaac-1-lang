@@ -1,6 +1,6 @@
 # 👋 Hi, I'm NIYOBYOSE Isaac Precieux
 
-**Full-Stack Developer | AI/ML Enthusiast | Cybersecurity Advocate**
+**Backend Developer | Junior AI/ML Engineer | Cybersecurity Entusiast | Mobile Apps Developper | Prompt Engineer**
 
 Student at Rwanda Coding Academy | Software Engineering Intern at CodVeda Technologies (2025) | Open to Remote Opportunities
 
