@@ -1,4 +1,4 @@
-# <img width="20" height="20" alt="wave" src="https://github.com/user-attachments/assets/2e5e5b7a-8ce4-4558-a53f-81e562f95b71" />
+# <img width="100" height="100" alt="wave" src="https://github.com/user-attachments/assets/2e5e5b7a-8ce4-4558-a53f-81e562f95b71" />
  Hi, I'm NIYOBYOSE Isaac Precieux
 
 **Backend Developer | Junior AI/ML Engineer | Cybersecurity Entusiast | Mobile Apps Developper | Prompt Engineer**
