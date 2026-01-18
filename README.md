@@ -1,4 +1,5 @@
-# 👋 Hi, I'm NIYOBYOSE Isaac Precieux
+# <img width="20" height="20" alt="wave" src="https://github.com/user-attachments/assets/2e5e5b7a-8ce4-4558-a53f-81e562f95b71" />
+ Hi, I'm NIYOBYOSE Isaac Precieux
 
 **Backend Developer | Junior AI/ML Engineer | Cybersecurity Entusiast | Mobile Apps Developper | Prompt Engineer**
 
@@ -6,22 +7,22 @@ Student at Rwanda Coding Academy | Software Engineering Intern at CodVeda Techno
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I'm a passionate software engineer with over a year of hands-on experience building innovative solutions across web development, artificial intelligence, and blockchain technology. Based in Kigali, Rwanda, I'm driven by a mission to create impactful technology that solves real-world problems.
 
 **What drives me:**
-- 🎯 Building scalable full-stack applications with modern frameworks
-- 🤖 Exploring AI/ML applications, especially computer vision and deep learning
+-  Building scalable full-stack applications with modern frameworks
+-  Exploring AI/ML applications, especially computer vision and deep learning
 - 🔗 Developing decentralized solutions using blockchain technology
-- 🎓 Contributing to educational platforms and open-source projects
-- 🔐 Implementing secure, robust systems with cybersecurity best practices
+-  Contributing to educational platforms and open-source projects
+-  Implementing secure, robust systems with cybersecurity best practices
 
 **Current Focus:** Advancing my expertise in AI-powered applications and enterprise-level backend architectures while pursuing my studies at Rwanda Coding Academy.
 
 ---
 
-## 🛠️ Technical Stack
+##  Technical Stack
 
 **Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
@@ -65,7 +66,7 @@ I'm a passionate software engineer with over a year of hands-on experience build
 
 ---
 
-## 📬 Get In Touch
+##  Get In Touch
 
 **Email:** isaprecieux112@gmail.com  
 **LinkedIn:** [Professional Profile](https://www.linkedin.com/in/niyobyose-isaac-precieux-339369380)  
