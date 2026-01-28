@@ -29,6 +29,7 @@ I'm a passionate software engineer with over a year of hands-on experience build
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
+Java
 
 **Frontend Development**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
