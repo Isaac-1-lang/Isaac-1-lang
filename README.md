@@ -13,7 +13,7 @@ Student at Rwanda Coding Academy | Software Engineering Intern at CodVeda Techno
 I’m a motivated software engineering student with strong hands-on experience building backend systems, full-stack web applications, and beginner-to-intermediate AI projects.  
 My long-term goal is to become a **cybersecurity engineer** with solid foundations in **systems programming, networking, and secure software design**.
 
-I enjoy working close to how systems actually work — from low-level C programming and databases, to web backends and deployment.
+I enjoy working close to how systems actually work from low-level C programming and databases, to web backends and deployment.
 
 **What I focus on most:**
 - ⚙️ Designing backend systems using Java (Servlets/JSP), Node.js and REST APIs  
@@ -105,13 +105,13 @@ Cybersecurity foundations, backend engineering, AI-powered applications, and sys
 **Email:** isaprecieux112@gmail.com  
 **Location:** Kigali, Rwanda
 
-I’m open to collaboration on backend systems, cybersecurity-oriented projects, and AI applications for real-world problems—especially in education and community development.
+I’m open to collaboration on backend systems, cybersecurity-oriented projects, and AI applications for real-world problems, especially in education and community development.
 
 ---
 
 <div align="center">
 
-*"Learning systems deeply today to secure and build smarter technologies tomorrow."*
+*"If it works don't touch it!."*
 
 ⭐ From [Isaac](https://github.com/Isaac-1-lang)
 
