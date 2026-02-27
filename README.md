@@ -19,11 +19,11 @@ I'm a motivated software engineering student passionate about building robust ba
 
 I enjoy working close to how systems actually operate — from low-level C programming and database internals, to scalable web backends and cloud deployment.
 
-- ⚙️ **Backend Engineering** — Java (Spring Boot / Servlets / JSP), Node.js, REST & GraphQL APIs  
-- 🤖 **AI / ML** — Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP  
-- 🔐 **Cybersecurity** — Network security, cryptography, binary exploitation, C for systems programming  
-- 🧪 **Competitive Programming** — Algorithms, data structures, Olympiad & Codeforces preparation  
-- 🌍 **Social Impact** — Building digital tools that improve education access in Rwandan boarding schools
+- ⚙️ **Backend Engineering**:Java (Spring Boot / Servlets / JSP), Node.js, REST & GraphQL APIs  
+- 🤖 **AI / ML**:Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP  
+- 🔐 **Cybersecurity**:Network security, cryptography, binary exploitation, C for systems programming  
+- 🧪 **Competitive Programming*:Algorithms, data structures, Olympiad & Codeforces preparation  
+- 🌍 **Social Impact**:Building digital tools that improve education access in Rwandan boarding schools
 
 ---
 
@@ -126,6 +126,6 @@ I'm open to collaboration on:
 - ⚙️ Backend systems, APIs, and microservices  
 - 🎓 Education technology for underserved communities
 
-> *"If it works, don't touch it — but if you do, make sure you understand why it worked."*
+> *"If it works, don't touch it. But if you do, make sure you understand why it worked."*
 
 ⭐ From [Isaac](https://github.com/Isaac-1-lang)
