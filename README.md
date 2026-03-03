@@ -17,12 +17,12 @@
 
 I'm a motivated software engineering student passionate about building robust backend systems, full-stack web applications, and practical AI-powered solutions. My long-term goal is to become a **cybersecurity engineer** with deep expertise in **systems programming, network security, and secure software design**.
 
-I enjoy working close to how systems actually operate — from low-level C programming and database internals, to scalable web backends and cloud deployment.
+I enjoy working close to how systems actually operate from low-level C programming and database internals, to scalable web backends and cloud deployment.
 
-- ⚙️ **Backend Engineering**:Java (Spring Boot / Servlets / JSP), Node.js, REST & GraphQL APIs  
+- ⚙️ **Backend Engineering**:Java (Spring Boot / Servlets / JSP), Node.js, RESTFUL APIs
 - 🤖 **AI / ML**:Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP  
 - 🔐 **Cybersecurity**:Network security, cryptography, binary exploitation, C for systems programming  
-- 🧪 **Competitive Programming*:Algorithms, data structures, Olympiad & Codeforces preparation  
+- 🧪 **Competitive Programming*:Algorithms, data structures. 
 - 🌍 **Social Impact**:Building digital tools that improve education access in Rwandan boarding schools
 
 ---
