@@ -3,7 +3,7 @@
 **Full-Stack Developer · AI/ML Engineer · Cybersecurity & Systems Enthusiast**
 
 🎓 Student @ Rwanda Coding Academy &nbsp;|&nbsp; 💼 Software Engineering Intern @ CodVeda Technologies (2025)  
- Kigali, Rwanda &nbsp;|&nbsp; 📬 niyobyoseisaacprecieux@rca.ac.rw &nbsp;|&nbsp; 🌐 Open to Remote & Internship Opportunities
+ Kigali, Rwanda &nbsp;|&nbsp; 📬 niyobyoseisaac@rca.ac.rw &nbsp;|&nbsp; 🌐 Open to Remote & Internship Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyobyose-isaac-precieux-339369380)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://prtf-two.vercel.app/)
