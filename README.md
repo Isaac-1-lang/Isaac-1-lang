@@ -1,6 +1,6 @@
 # NIYOBYOSE Isaac Precieux
 
-**Full-Stack Developer · AI/ML Engineer · Cybersecurity & Systems Enthusiast**
+**Backend Engineer · Full-Stack Developer · AI/ML Engineer · System Designer**
 
 🎓 Student at Rwanda Coding Academy &nbsp;|&nbsp; 💼 Software Engineering Intern @ CodVeda Technologies (2025)
 📍 Kigali, Rwanda &nbsp;|&nbsp; 📬 niyobyoseisaac@rca.ac.rw &nbsp;|&nbsp; 🌐 Open to Remote & Internship Opportunities
@@ -15,19 +15,93 @@
 
 ## About Me
 
-I am a motivated software engineering student with a strong passion for building robust backend systems, full-stack web applications, and practical AI-powered solutions. My long-term goal is to become a **cybersecurity engineer** with deep expertise in systems programming, network security, and secure software design.
+I am a motivated software engineering student with a deep focus on **backend engineering**  building scalable, secure, and production-ready server-side systems. I specialize in the **Java/Spring ecosystem**, RESTful API design, relational databases, and CI/CD pipelines. My long-term goal is to become a **backend-focused cybersecurity engineer** with expertise in secure software design, systems programming, and network security.
 
-I enjoy working close to how systems actually operate — from low-level C programming and database internals, to scalable web backends and cloud deployment.
+I thrive working close to how systems actually operate — from database internals and API architecture to deployment pipelines and access control.
 
-- ⚙️ **Backend Engineering** — Java (Spring Boot / Servlets / JSP), Node.js, RESTful APIs
+- ⚙️ **Backend Engineering** — Java (Spring Boot · Spring Security · Spring MVC), NestJS, Node.js, RESTful & GraphQL APIs
+- 🗄️ **Databases** — PostgreSQL, MySQL, MongoDB, Redis — schema design, query optimization, transactions
+- 🔁 **CI/CD & DevOps** — Git, Jenkins, GitHub Actions, Docker, Linux, Nginx
+- 🔐 **Cybersecurity** — Spring Security, JWT/OAuth2, network security, cryptography, binary exploitation
 - 🤖 **AI / ML** — Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP
-- 🔐 **Cybersecurity** — Network security, cryptography, binary exploitation, C for systems programming
-- 🧪 **Competitive Programming** — Algorithms, data structures
 - 🌍 **Social Impact** — Building digital tools that improve education access in Rwandan boarding schools
 
 ---
 
-## Technical Stack
+## 🏗️ Backend Engineering — Core Focus
+
+> This is where I spend most of my time. Building robust, secure, and scalable server-side systems.
+
+### Java & Spring Ecosystem
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white)
+![Spring MVC](https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
+
+- **Spring Boot** — Rapid development of production-grade REST APIs and microservices
+- **Spring Security** — JWT authentication, OAuth2 flows, role-based access control (RBAC), session management
+- **Spring MVC** — MVC architecture, request handling, interceptors, and filter chains
+- **Hibernate / JPA** — ORM, entity relationships, lazy loading, custom queries, transactions
+
+---
+
+### Node.js Ecosystem
+
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+
+- **NestJS** — Modular, scalable backend architecture with TypeScript, guards, interceptors, and pipes
+- **Express** — Lightweight REST APIs, middleware pipelines, and route management
+
+---
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+
+- **PostgreSQL** — Primary relational DB: advanced queries, indexing strategies, stored procedures, JSONB
+- **MySQL** — Relational data modeling, joins, transactions, replication fundamentals
+- **MongoDB** — Document-based storage for flexible, schema-less data
+- **Redis** — Caching layers, session storage, pub/sub messaging
+
+---
+
+### API Design & Architecture
+
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+
+- RESTful API design with versioning, pagination, and proper HTTP semantics
+- GraphQL schemas, resolvers, and query optimization
+- API documentation with Swagger / OpenAPI
+
+---
+
+### CI/CD & Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+- **Git** — Branching strategies (Git Flow, trunk-based), rebasing, conflict resolution, PR workflows
+- **Jenkins** — Pipeline as Code (Jenkinsfile), automated build/test/deploy pipelines, job scheduling
+- **GitHub Actions** — CI/CD workflows, automated testing, container image builds and pushes
+- **Docker** — Containerizing Spring Boot and Node.js apps, multi-stage builds, Docker Compose
+
+---
+
+## Full Technical Stack
 
 ### Languages
 
@@ -36,6 +110,7 @@ I enjoy working close to how systems actually operate — from low-level C progr
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 
 ---
@@ -45,34 +120,8 @@ I enjoy working close to how systems actually operate — from low-level C progr
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
----
-
-### Backend & APIs
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-2F2625?style=flat-square&logo=apache&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=flat-square&logo=swagger&logoColor=white)
-
----
-
-### Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
 ---
 
@@ -84,11 +133,8 @@ I enjoy working close to how systems actually operate — from low-level C progr
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF9900?style=flat-square&logo=huggingface&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 
-**Areas of Focus:** Computer Vision · Natural Language Processing · Deep Learning · Model Deployment · Transfer Learning
+**Areas of Focus:** Computer Vision · NLP · Deep Learning · Model Deployment · Transfer Learning
 
 ---
 
@@ -97,23 +143,21 @@ I enjoy working close to how systems actually operate — from low-level C progr
 ![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
+- Spring Security (JWT, OAuth2, RBAC, CSRF protection)
 - Network security fundamentals & packet analysis
 - Cryptography — symmetric, asymmetric, and hashing algorithms
 - Binary exploitation & low-level memory concepts
-- C for systems and security-oriented programming
 - Secure software design principles
 
 ---
 
 ### DevOps & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat-square&logo=intellijidea&logoColor=white)
 
 ---
 
@@ -130,10 +174,11 @@ I enjoy working close to how systems actually operate — from low-level C progr
 
 I'm actively looking to collaborate on:
 
-- 🔐 Cybersecurity tools and CTF (Capture The Flag) projects
-- 🤖 AI/ML applications with real-world, measurable impact
-- ⚙️ Backend systems, RESTful APIs, and microservices architecture
-- 🎓 Education technology solutions for underserved communities
+- ⚙️ **Backend systems** — Spring Boot microservices, REST/GraphQL APIs, NestJS applications
+- 🔐 **Secure backend development** — Spring Security, authentication systems, CTF challenges
+- 🗄️ **Database-heavy projects** — PostgreSQL/MySQL schema design, query optimization, data pipelines
+- 🤖 **AI/ML applications** — real-world impact, model deployment with backend integration
+- 🎓 **EdTech** — digital tools for underserved communities in Rwanda and beyond
 
 ---
 
