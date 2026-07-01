@@ -1,6 +1,6 @@
 # NIYOBYOSE Isaac Precieux
 
-**Backend Engineer · Full-Stack Developer · AI/ML Engineer · System Designer**
+**Backend Engineer · Full-Stack Engineer · AI/ML Engineer · System Designer**
 
 🎓 Student at Rwanda Coding Academy &nbsp;|&nbsp; 💼 Software Engineering Intern @ CodVeda Technologies (2025)
 📍 Kigali, Rwanda &nbsp;|&nbsp; 📬 niyobyoseisaac@rca.ac.rw &nbsp;|&nbsp; 🌐 Open to Remote & Internship Opportunities
