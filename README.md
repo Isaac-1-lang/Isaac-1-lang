@@ -19,16 +19,16 @@ I am a motivated software engineering student with a deep focus on **backend eng
 
 I thrive working close to how systems actually operate — from database internals and API architecture to deployment pipelines and access control.
 
-- ⚙️ **Backend Engineering** — Java (Spring Boot · Spring Security · Spring MVC), NestJS, Node.js, RESTful & GraphQL APIs
-- 🗄️ **Databases** — PostgreSQL, MySQL, MongoDB, Redis — schema design, query optimization, transactions
-- 🔁 **CI/CD & DevOps** — Git, Jenkins, GitHub Actions, Docker, Linux, Nginx
-- 🔐 **Cybersecurity** — Spring Security, JWT/OAuth2, network security, cryptography, binary exploitation
-- 🤖 **AI / ML** — Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP
-- 🌍 **Social Impact** — Building digital tools that improve education access in Rwandan boarding schools
+- ⚙️ **Backend Engineering**: Java (Spring Boot · Spring Security · Spring MVC), NestJS, Node.js, RESTful & GraphQL APIs
+- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB, Redis — schema design, query optimization, transactions
+- 🔁 **CI/CD & DevOps**: Git, Jenkins, GitHub Actions, Docker, Linux, Nginx
+- 🔐 **Cybersecurity**:Spring Security, JWT/OAuth2, network security, cryptography, binary exploitation
+- 🤖 **AI / ML**:Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP
+- 🌍 **Social Impact**:Building digital tools that improve education access in Rwandan boarding schools
 
 ---
 
-## 🏗️ Backend Engineering — Core Focus
+## 🏗️ Backend Engineering
 
 > This is where I spend most of my time. Building robust, secure, and scalable server-side systems.
 
@@ -41,10 +41,10 @@ I thrive working close to how systems actually operate — from database interna
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square&logo=hibernate&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apachemaven&logoColor=white)
 
-- **Spring Boot** — Rapid development of production-grade REST APIs and microservices
-- **Spring Security** — JWT authentication, OAuth2 flows, role-based access control (RBAC), session management
-- **Spring MVC** — MVC architecture, request handling, interceptors, and filter chains
-- **Hibernate / JPA** — ORM, entity relationships, lazy loading, custom queries, transactions
+- **Spring Boot**:Rapid development of production-grade REST APIs and microservices
+- **Spring Security**:JWT authentication, OAuth2 flows, role-based access control (RBAC), session management
+- **Spring MVC**:MVC architecture, request handling, interceptors, and filter chains
+- **Hibernate / JPA**:ORM, entity relationships, lazy loading, custom queries, transactions
 
 ---
 
@@ -54,8 +54,8 @@ I thrive working close to how systems actually operate — from database interna
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-- **NestJS** — Modular, scalable backend architecture with TypeScript, guards, interceptors, and pipes
-- **Express** — Lightweight REST APIs, middleware pipelines, and route management
+- **NestJS**:Modular, scalable backend architecture with TypeScript, guards, interceptors, and pipes
+- **Express**:Lightweight REST APIs, middleware pipelines, and route management
 
 ---
 
@@ -67,10 +67,10 @@ I thrive working close to how systems actually operate — from database interna
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 
-- **PostgreSQL** — Primary relational DB: advanced queries, indexing strategies, stored procedures, JSONB
-- **MySQL** — Relational data modeling, joins, transactions, replication fundamentals
-- **MongoDB** — Document-based storage for flexible, schema-less data
-- **Redis** — Caching layers, session storage, pub/sub messaging
+- **PostgreSQL**:Primary relational DB: advanced queries, indexing strategies, stored procedures, JSONB
+- **MySQL**:Relational data modeling, joins, transactions, replication fundamentals
+- **MongoDB**:Document-based storage for flexible, schema-less data
+- **Redis**:Caching layers, session storage, pub/sub messaging
 
 ---
 
@@ -94,10 +94,10 @@ I thrive working close to how systems actually operate — from database interna
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-- **Git** — Branching strategies (Git Flow, trunk-based), rebasing, conflict resolution, PR workflows
-- **Jenkins** — Pipeline as Code (Jenkinsfile), automated build/test/deploy pipelines, job scheduling
-- **GitHub Actions** — CI/CD workflows, automated testing, container image builds and pushes
-- **Docker** — Containerizing Spring Boot and Node.js apps, multi-stage builds, Docker Compose
+- **Git**:Branching strategies (Git Flow, trunk-based), rebasing, conflict resolution, PR workflows
+- **Jenkins**:Pipeline as Code (Jenkinsfile), automated build/test/deploy pipelines, job scheduling
+- **GitHub Actions**:CI/CD workflows, automated testing, container image builds and pushes
+- **Docker**:Containerizing Spring Boot and Node.js apps, multi-stage builds, Docker Compose
 
 ---
 
@@ -174,11 +174,11 @@ I thrive working close to how systems actually operate — from database interna
 
 I'm actively looking to collaborate on:
 
-- ⚙️ **Backend systems** — Spring Boot microservices, REST/GraphQL APIs, NestJS applications
-- 🔐 **Secure backend development** — Spring Security, authentication systems, CTF challenges
-- 🗄️ **Database-heavy projects** — PostgreSQL/MySQL schema design, query optimization, data pipelines
-- 🤖 **AI/ML applications** — real-world impact, model deployment with backend integration
-- 🎓 **EdTech** — digital tools for underserved communities in Rwanda and beyond
+- ⚙️ **Backend systems**:Spring Boot microservices, REST/GraphQL APIs, NestJS applications
+- 🔐 **Secure backend development**:Spring Security, authentication systems, CTF challenges
+- 🗄️ **Database-heavy projects**:PostgreSQL/MySQL schema design, query optimization, data pipelines
+- 🤖 **AI/ML applications**:real-world impact, model deployment with backend integration
+- 🎓 **EdTech**:digital tools for underserved communities in Rwanda and beyond
 
 ---
 
