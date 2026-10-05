@@ -2,8 +2,8 @@
 
 **Full-Stack Software Engineer**
 
-🎓 Student at Rwanda Coding Academy &nbsp;|&nbsp; 💼 Software Engineering Intern @ CodVeda Technologies (2025)
-📍 Kigali, Rwanda &nbsp;|&nbsp; 📬 niyobyoseisaac@rca.ac.rw &nbsp;|&nbsp; 🌐 Open to Remote & Internship Opportunities
+ Student at Rwanda Coding Academy &nbsp;|&nbsp; Software Engineering Intern @ CodVeda Technologies (2025)
+Kigali, Rwanda &nbsp;|&nbsp; niyobyoseisaac@rca.ac.rw &nbsp;|&nbsp;  Open to Remote Jobs & Internship Opportunities
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niyobyose-isaac-precieux-339369380)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://prtf-two.vercel.app/)
@@ -15,20 +15,20 @@
 
 ## About Me
 
-I am a motivated software engineering student with a deep focus on **backend engineering**  building scalable, secure, and production-ready server-side systems. I specialize in the **Java/Spring ecosystem**, RESTful API design, relational databases, and CI/CD pipelines. My long-term goal is to become a **backend-focused cybersecurity engineer** with expertise in secure software design, systems programming, and network security.
+I am a motivated software engineering student with a deep focus on **backend engineering** and **AI Engineering** building scalable, secure, and production-ready server-side systems. I specialize in the **Java/Spring ecosystem**, RESTful API design, relational databases, and CI/CD pipelines. My long-term goal is to become a **backend-focused cybersecurity engineer** with expertise in secure software design, systems programming, and network security.
 
-I thrive working close to how systems actually operate — from database internals and API architecture to deployment pipelines and access control.
+I thrive working close to how systems actually operate  from database internals and API architecture to deployment pipelines and access control.
 
-- ⚙️ **Backend Engineering**: Java (Spring Boot · Spring Security · Spring MVC), NestJS, Node.js, RESTful & GraphQL APIs
-- 🗄️ **Databases**: PostgreSQL, MySQL, MongoDB, Redis — schema design, query optimization, transactions
-- 🔁 **CI/CD & DevOps**: Git, Jenkins, GitHub Actions, Docker, Linux, Nginx
-- 🔐 **Cybersecurity**:Spring Security, JWT/OAuth2, network security, cryptography, binary exploitation
-- 🤖 **AI / ML**:Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP
-- 🌍 **Social Impact**:Building digital tools that improve education access in Rwandan boarding schools
+-  **Backend Engineering**: Java (Spring Boot · Spring Security · Spring MVC), NestJS, Node.js, RESTful & GraphQL APIs
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis — schema design, query optimization, transactions
+- **CI/CD & DevOps**: Git, Jenkins, GitHub Actions, Docker, Linux, Nginx
+- **Cybersecurity**:Spring Security, JWT/OAuth2, network security, cryptography, binary exploitation
+- **AI / ML**:Model training and deployment with TensorFlow, PyTorch, scikit-learn; CV & NLP
+- **Social Impact**:Building digital tools that improve education access in Rwandan boarding schools
 
 ---
 
-## 🏗️ Backend Engineering
+##  Backend Engineering
 
 > This is where I spend most of my time. Building robust, secure, and scalable server-side systems.
 
@@ -174,11 +174,11 @@ I thrive working close to how systems actually operate — from database interna
 
 I'm actively looking to collaborate on:
 
-- ⚙️ **Backend systems**:Spring Boot microservices, REST/GraphQL APIs, NestJS applications
-- 🔐 **Secure backend development**:Spring Security, authentication systems, CTF challenges
-- 🗄️ **Database-heavy projects**:PostgreSQL/MySQL schema design, query optimization, data pipelines
-- 🤖 **AI/ML applications**:real-world impact, model deployment with backend integration
-- 🎓 **EdTech**:digital tools for underserved communities in Rwanda and beyond
+-  **Backend systems**:Spring Boot microservices, REST/GraphQL APIs, NestJS applications
+-  **Secure backend development**:Spring Security, authentication systems, CTF challenges
+-  **Database-heavy projects**:PostgreSQL/MySQL schema design, query optimization, data pipelines
+-  **AI/ML applications**:real-world impact, model deployment with backend integration
+-  **EdTech**:digital tools for underserved communities in Rwanda and beyond
 
 ---
 
